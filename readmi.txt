@@ -1,2 +1,6 @@
 Новый проект
 Другая строка
+
+Hello, GIT!
+Hello, GIT cherry-pick!
+Hello, squash!
